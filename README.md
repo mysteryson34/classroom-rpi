@@ -1,1 +1,3 @@
 # classroom-rpi
+
+**Dependencies
