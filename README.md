@@ -1,4 +1,3 @@
-# ***classroom-rpi***
-# a companion for teachers
+# ***classroom-rpi*** : a companion for teachers
 
 **Dependencies**
