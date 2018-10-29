@@ -1,4 +1,4 @@
 # classroom-rpi
-# a companion for teachers
+# *a companion for teachers*
 
 **Dependencies**
